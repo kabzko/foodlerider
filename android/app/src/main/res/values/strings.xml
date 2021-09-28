@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">foodle rider</string>
+    <string name="title_activity_main">foodle rider</string>
+    <string name="package_name">com.bitsys.foodlerider</string>
+    <string name="custom_url_scheme">com.bitsys.foodlerider</string>
+</resources>
